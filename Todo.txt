@@ -1,0 +1,3 @@
+num views for shop,item and wishlist excluding the owner.
+get the top items by views for shop
+Ajax: Remove comments, remove Items from wishlist
